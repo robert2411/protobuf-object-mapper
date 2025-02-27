@@ -58,7 +58,7 @@
         <json.version>20240303</json.version>
 
         <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
-        <maven-project-info-reports-plugin.version>3.8.0</maven-project-info-reports-plugin.version>
+        <maven-project-info-reports-plugin.version>3.9.0</maven-project-info-reports-plugin.version>
 
         <sonar.organization>robert2411</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
