@@ -55,7 +55,7 @@
         <jacoco-maven-plugin.version>0.8.13</jacoco-maven-plugin.version>
         <pitest-maven.version>1.19.3</pitest-maven.version>
         <json-path.version>2.9.0</json-path.version>
-        <json.version>20240303</json.version>
+        <json.version>20250517</json.version>
 
         <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
         <maven-project-info-reports-plugin.version>3.9.0</maven-project-info-reports-plugin.version>
