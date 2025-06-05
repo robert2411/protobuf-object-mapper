@@ -53,7 +53,7 @@
         <nexus-staging-maven-plugin.version>1.7.0</nexus-staging-maven-plugin.version>
 
         <jacoco-maven-plugin.version>0.8.13</jacoco-maven-plugin.version>
-        <pitest-maven.version>1.19.4</pitest-maven.version>
+        <pitest-maven.version>1.19.5</pitest-maven.version>
         <json-path.version>2.9.0</json-path.version>
         <json.version>20240303</json.version>
 
