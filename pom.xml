@@ -62,7 +62,7 @@
 
         <sonar.organization>robert2411</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <site.skin.version>2.3.3</site.skin.version>
+        <site.skin.version>2.4.0</site.skin.version>
     </properties>
 
     <dependencies>
