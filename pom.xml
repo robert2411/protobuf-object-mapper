@@ -36,7 +36,7 @@
 
     <properties>
         <protobuf-java.version>3.25.8</protobuf-java.version>
-        <jackson.version>2.19.0</jackson.version>
+        <jackson.version>2.19.1</jackson.version>
 
         <junit.version>4.13.2</junit.version>
         <json-unit-spring.version>3.5.0</json-unit-spring.version>
