@@ -35,7 +35,7 @@
     </developers>
 
     <properties>
-        <protobuf-java.version>3.25.9</protobuf-java.version>
+        <protobuf-java.version>4.34.1</protobuf-java.version>
         <jackson.version>2.21.3</jackson.version>
 
         <junit.version>4.13.2</junit.version>
